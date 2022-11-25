@@ -4,7 +4,7 @@ const pricing = {
 	tiers: [
 		{
 			title: "小學小組",
-			price: 150,
+			price: 200,
 			frequency: "/每月 起",
 			description: "英、數小組課程，緊貼校內課程，全面打好基礎",
 			features: ["課後研習跟進", "全面針對校內評核", "貼題練習"],
@@ -13,7 +13,7 @@ const pricing = {
 		},
 		{
 			title: "中學小組",
-			price: 180,
+			price: 250,
 			frequency: "/每月 起",
 			description: "英、商、數、理課程，助您升中升大考好成績",
 			features: ["課後研習跟進", "全面針對校內評核", "精編筆記", "模擬考試"],
